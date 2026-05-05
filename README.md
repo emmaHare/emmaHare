@@ -11,56 +11,15 @@
 
 <h2>🌺 Some of my tools</h2>
 
-<h2>🌺 Some of my tools</h2>
-
-<div style="display: flex; gap: 12px; flex-wrap: wrap; align-items: center;">
-
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-         width="50" height="60"
-         style="background-color:#0f172a; padding:15px; border-radius:15px;" />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-         width="50" height="60"
-         style="background-color:#0f172a; padding:15px; border-radius:15px;" />
-  </a>
-
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-         width="50" height="60"
-         style="background-color:#0f172a; padding:15px; border-radius:15px;" />
-  </a>
-
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-         width="50" height="60"
-         style="background-color:#0f172a; padding:15px; border-radius:15px;" />
-  </a>
-
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
-         width="50" height="60"
-         style="background-color:#0f172a; padding:15px; border-radius:15px;" />
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-         width="50" height="60"
-         style="background-color:#0f172a; padding:15px; border-radius:15px;" />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-         width="50" height="60"
-         style="background-color:#0f172a; padding:15px; border-radius:15px;" />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-         width="50" height="60"
-         style="background-color:#0f172a; padding:15px; border-radius:15px;" />
-  </a>
-
-</div>
+<table>
+  <tr>
+    <td><a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/></a></td>
+    <td><a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/></a></td>
+    <td><a href="https://www.php.net/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/></a></td>
+    <td><a href="https://spring.io/projects/spring-boot"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/></a></td>
+    <td><a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/></a></td>
+  </tr>
+</table>
