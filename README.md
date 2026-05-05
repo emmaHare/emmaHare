@@ -11,8 +11,7 @@
 
 <h2>🌺 Some of my tools</h2>
 
-<p align="left">
-  <h2>🌺 Some of my tools</h2>
+<h2>🌺 Some of my tools</h2>
 
 <div style="display: flex; gap: 12px; flex-wrap: wrap; align-items: center;">
 
@@ -65,4 +64,3 @@
   </a>
 
 </div>
-</p>
