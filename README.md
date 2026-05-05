@@ -12,6 +12,10 @@
 <h2>🌺 Some of my tools</h2>
 
 <p align="left">
+  <h2>🌺 Some of my tools</h2>
+
+<div style="display: flex; gap: 12px; flex-wrap: wrap; align-items: center;">
+
   <a href="https://www.java.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
          width="50" height="60"
@@ -59,4 +63,6 @@
          width="50" height="60"
          style="background-color:#0f172a; padding:15px; border-radius:15px;" />
   </a>
+
+</div>
 </p>
